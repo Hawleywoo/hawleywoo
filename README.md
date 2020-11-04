@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andrew</h1>
 <h3 align="center">A passionate frontend developer from Colorado. Love dogs and to learn!</h3>
-![banner](https://www.canva.com/design/DAEMglaGXZw/lcbaiw0OQ_5W2spQftm-5A/view?utm_content=DAEMglaGXZw&utm_campaign=designshare&utm_medium=link&utm_source=viewer)
+![Name Banner](https://www.canva.com/design/DAEMglaGXZw/lcbaiw0OQ_5W2spQftm-5A/view?utm_content=DAEMglaGXZw&utm_campaign=designshare&utm_medium=link&utm_source=viewer)
 
 - 🔭 I’m currently working on **Cookie Order Website**
 

@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andrew</h1>
 <h3 align="center">A passionate frontend developer from Colorado. Love dogs and to learn!</h3>
-![Name Banner](https://github.com/Hawleywoo/images/blob/master/Andrew%20Hawley.png)
+
 <img src="https://github.com/Hawleywoo/images/blob/master/Andrew%20Hawley.png">
 
 - 🔭 I’m currently working on **Cookie Order Website**
